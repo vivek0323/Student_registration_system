@@ -70,3 +70,5 @@ License
 This project is licensed under the MIT License.
 
 Replace `<repository-url>` and `<repository-folder>` with your project's repository URL and folder name. Add or modify sections as needed to better describe your project.#
+
+you can view this website at "https://student-registration-v.netlify.app/"
